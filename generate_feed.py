@@ -7,7 +7,7 @@ from html import unescape
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode
 
-STORE = "https://www.66hundred.com"
+STORE = "https://66hundred.com"
 OUTPUT = "products.jsonl.gz"
 
 
